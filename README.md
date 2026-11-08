@@ -1,4 +1,4 @@
-# pedra-papel-tesoura-etec
-projeto de pedra, papel e tesoura para etec.
-## sobre o jogo.py
-o arquivo jogo.py é o backend sem o flask.
+# Pedra, Papel e Tesoura (Etec)
+Projeto de Pedra, Papel e Tesoura para Etec.
+## Sobre o "jogo.py"
+O arquivo "jogo.py" é o backend sem o Flask.
